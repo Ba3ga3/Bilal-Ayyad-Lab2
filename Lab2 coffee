@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<math.h>
+int Espresso(float EspressoPrice, float EspressoWater,float EspressoMilk,float EspressoBeans)
+int Capuccino(float CapuPrice,float CapuWater,float CapuMilk,float CapuBeans)
+int Mocha(float MochaPrice,float Mochawater,float Mocha Milk,float MochaBeans,float MochaChocoSyr)
+
+{
+    printf("input the desired drink:",)
+}
