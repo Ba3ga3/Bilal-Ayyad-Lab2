@@ -3,6 +3,11 @@
 int Espresso(float EspressoPrice, float EspressoWater,float EspressoMilk,float EspressoBeans)
 int Capuccino(float CapuPrice,float CapuWater,float CapuMilk,float CapuBeans)
 int Mocha(float MochaPrice,float Mochawater,float Mocha Milk,float MochaBeans,float MochaChocoSyr)
+#define float EspressoPrice=3.5;
+#define int EspressoWater=30;
+#define int EspressoMilk=0;
+#define float CapuPrice=4.5;
+#define int CapuMilk=70;
 
 {
     printf("input the desired drink:",)
